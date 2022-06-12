@@ -1,0 +1,84 @@
+Script started on 2022-06-12 11:26:19+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
++ EXITCODE=1
++ docker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f
+build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f
++ exit 1]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + EXITCODE=1
++: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + docker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f
++: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f
+build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + exit 1
++: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + exit 1build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + docker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[AEXITCODE=1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt update && sudo apt install --assume-yes unrar #Ubuntu and Debian[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ npm start[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pcode . [2@d drone[C[2Pode .[Cnpm startsudo apt update && sudo apt install --assume-yes unrar #Ubuntu and Debian[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ [21P+ EXITCODE=1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[Abuild_grpc_interop_csharpcoreclr_6[15Pec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + exit 1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K+ exit 1build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + docker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[AEXITCODE=1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt update && sudo apt install --assume-yes unrar #Ubuntu and Debian[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ npm start[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pcode . [2@d drone[C]cd drine [9PDesktopEsktop [5Pode .npm start [3Pcode .[C[2@d drone[C[1@d[C[C[C[C[C[1P[C[C[C[C[C[2@Desktop[C[2Pnpm startinstall[2Pstartls[Kgit clone https://github.com/w4t3r-45/project_with_love[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ cd prj[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@mkdir[C[C[C[C[4Pcd ..learnpm install[2Pstart[4Pcleard currency [15@sudo npm install -g npm   [C[16Pnpm install[2Pstartinstallsudo npm install -g npm    [15Pcd currency[C[7Plearnpm startinstall[6Pcleard ..mkdir prj[3Pcd[C[C[C[Cgit clone https://github.com/w4t3r-45/project_with_love[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnpm startinstall[2Pstartcd Desktop [2Pdrone[C[1@d[C[C[C[C[C[1P[C[C[C[C[C[2Pode .[C[3@npm start[C[4Pcode .d DEsktop [1Pesktopdrone ]cd drine [K[2Pode .[Cnpm startsudo apt update && sudo apt install --assume-yes unrar #Ubuntu and Debian[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ [21P+ EXITCODE=1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker rm -f build_grpc_interop_csharpcoreclr_6ec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[Abuild_grpc_interop_csharpcoreclr_6[15Pec5b8ab-6a4d-492b-81c0-1821dfcdbd7f[A]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ + exit 1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kit push -u origin main
+it: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ it push -u origin main[1@g
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/kbesseghir/drone2.git'
+[m]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git init
+Reinitialized existing Git repository in /home/kheira/Desktop/drone2/.git/
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git commit -m "first commit"
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mreturned[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git branch -M main
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git remote add origin https://github.com/kbesseghir/drone2.git
+fatal: remote origin already exists.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git push -u origin main
+fatal: unable to access 'https://github.com/kbesseghir/drone2.git/': GnuTLS recv error (-54): Error in the pull function.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ it remote add origin https://github.com/kbesseghir/drone2.git
+it: command not found
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git branch -M main
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git push -u origin main
+fatal: unable to access 'https://github.com/kbesseghir/drone2.git/': GnuTLS recv error (-54): Error in the pull function.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git remote add origin https://github.com/kbesseghir/drone2.git
+fatal: remote origin already exists.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git branch -M main
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git push -u origin main
+fatal: unable to access 'https://github.com/kbesseghir/drone2.git/': GnuTLS recv error (-54): Error in the pull function.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git init
+Reinitialized existing Git repository in /home/kheira/Desktop/drone2/.git/
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git commit -m "first commit"
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mreturned[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git branch -M main
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git remote add origin git@github.com:kbesseghir/droneprj.git
+fatal: remote origin already exists.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git push -u origin main
+fatal: unable to access 'https://github.com/kbesseghir/drone2.git/': GnuTLS recv error (-54): Error in the pull function.
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git init
+Reinitialized existing Git repository in /home/kheira/Desktop/drone2/.git/
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git commit -m "first commit"
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mreturned[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git branch -M main
+]0;kheira@kheira-Latitude-E6440: ~/Desktop/drone2[01;32mkheira@kheira-Latitude-E6440[00m:[01;34m~/Desktop/drone2[00m$ git remote add origin https://github.com/kbesseghir/droneprj.git
+fatal: remote origin already exists.
+]0;kheira@kheira-Latitude
