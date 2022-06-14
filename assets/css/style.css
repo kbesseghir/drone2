@@ -678,30 +678,31 @@ section {
 .login-dark form .btn-primary {
   background:#4B8336;
   border:none;
-  border-radius:4px;
+  border-radius:8px;
   padding:11px;
   box-shadow:none;
   margin-top:26px;
-  margin-left: 1.6cm;
+  margin-left: 1.5cm;
   text-shadow:none;
   outline:none;
-  padding-bottom: 1cm;
+  padding-bottom: 1.1cm;
  width: 4cm;
- height: 1cm;
+ height: 0.5cm;
+ 
 }
 .login-dark2 form .btn-primary {
   background:#4B8336;
   border:none;
-  border-radius:4px;
+  border-radius:10px;
   padding:11px;
   box-shadow:none;
   margin-top:26px;
-  margin-left: 1.6cm;
+  margin-left: 1.1cm;
   text-shadow:none;
   outline:none;
   padding-bottom: 1cm;
  width: 4cm;
- height: 1cm;
+ height: 0.5cm;
 }
 .close-btn{
   background: transparent;
@@ -770,13 +771,14 @@ section {
 }
 #portfolio .portfolio-item {
   margin-bottom: 30px;
-  box-shadow: #333 2px 2px 8px;
+  box-shadow: rgb(194, 190, 190) 2px 1px 2px 1px;
+border-radius: 10px;}
 
-}
+
 #portfolio img{
   height: 7cm;
- 
-  width: 100%;
+ width: 100%;
+ background-size: cover;
 }
 #portfolio .portfolio-item .portfolio-info {
   opacity: 0;
